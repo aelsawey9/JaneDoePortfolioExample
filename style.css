@@ -155,6 +155,10 @@ h2 {
   margin-block-end: 5px;
 } 
 
+#about-me {
+	margin-left: 60px;
+}
+
 .flex_center {
   display: flex;
   align-items: center;
